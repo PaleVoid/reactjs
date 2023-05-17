@@ -10,7 +10,7 @@ root.render(
 <Router>
   <div>
     <Routes>
-      <Route path="/" element={<App />} />
+      <Route path="/reactjs" element={<App />} />
     </Routes>
   </div>
 </Router>
